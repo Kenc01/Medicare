@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "eslint-plugin-import": "^2.32.0"
+  },
+  "dependencies": {
+    "@clerk/react": "^6.1.1"
+  }
+}
