@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
-import { trim } from "validator";
+import pkg from "validator";
+const { trim } = pkg;
 
 const doctorSchema = new mongoose.Schema(
   {
