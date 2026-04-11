@@ -41,24 +41,24 @@ const Hero = ({ role = "admin", userName = "Doctor" }) => {
                     Role-based login with protected medical data.
                   </p>
                 </div>
-              </div>
 
-              <div className={heroStyles.infoCards.card}>
-                <h3 className={heroStyles.infoCards.cardTitle}>
-                  Real-time Management
-                </h3>
-                <p className={heroStyles.infoCards.cardText}>
-                  Monitor hospital activity and patient flow.
-                </p>
-              </div>
+                <div className={heroStyles.infoCards.card}>
+                  <h3 className={heroStyles.infoCards.cardTitle}>
+                    Real-time Management
+                  </h3>
+                  <p className={heroStyles.infoCards.cardText}>
+                    Monitor hospital activity and patient flow.
+                  </p>
+                </div>
 
-              <div className={heroStyles.infoCards.card}>
-                <h3 className={heroStyles.infoCards.cardTitle}>
-                  Medical Dashboard
-                </h3>
-                <p className={heroStyles.infoCards.cardText}>
-                  Clean, fast, and Doctor-friendly interface.
-                </p>
+                <div className={heroStyles.infoCards.card}>
+                  <h3 className={heroStyles.infoCards.cardTitle}>
+                    Medical Dashboard
+                  </h3>
+                  <p className={heroStyles.infoCards.cardText}>
+                    Clean, fast, and Doctor-friendly interface.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
