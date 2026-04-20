@@ -1098,7 +1098,7 @@ export const serviceDashboardStyles = {
       "px-4 py-2 rounded-full cursor-pointer bg-white border border-green-200 shadow-sm hover:bg-green-50 transition",
   },
 
-  // StatCard component styles
+  // StatCard component styles_
   statCard: {
     container:
       "rounded-full bg-linear-to-br from-emerald-100 to-emerald-50 shadow-sm border border-green-100 p-4 gap-4 flex items-center",
