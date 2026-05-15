@@ -2,7 +2,7 @@
 export const doctorDetailStyles = {
   // Layout styles
   pageContainer:
-    "min-h- font-serif bg-linear-to-br from-emerald-50 via-white to-green-50 p-4 sm:p-6",
+    "min-h-screen font-serif bg-linear-to-br from-emerald-50 via-white to-green-50 p-4 sm:p-6",
   maxWidthContainer: "max-w-4xl mx-auto",
   maxWidthContainerLg: "max-w-6xl mx-auto",
   maxWidthContainerXL: "max-w-9xl",
